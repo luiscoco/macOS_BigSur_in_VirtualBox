@@ -1,2 +1,6 @@
-# macOS_in_VirtualBox
-How to install macOs in VirtualBox
+# How to install macOs in VirtualBox
+
+https://www.youtube.com/watch?v=vQJrM7HqezQ
+
+
+
