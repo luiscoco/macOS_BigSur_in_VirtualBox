@@ -1,4 +1,4 @@
-# How to install macOs in VirtualBox
+# How to install macOs Big Sur in VirtualBox
 
 How to install Mac **Big Sur 11** in VirtualBox on a PC:
 
